@@ -10,7 +10,7 @@ getwd()
 # set working directory if required
 # setwd("<path here>")
 
-# initialize a new git repository from within R
+# initialize a new local git repository from within R
 # use_git()
 
-use_git()
+# stage and commit the changes in the Git pane

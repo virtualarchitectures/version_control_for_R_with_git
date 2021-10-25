@@ -16,11 +16,13 @@ getwd()
 
 # stage and commit the changes to the local repository using the Git pane
 
-# setup a Personal Access Token (PAT) on GITHub
+# setup a Personal Access Token (PAT) on GitHub
 # create_github_token()
 
 # save PAT using gitcreds package
 # gitcreds_set()
 
 # create a remote github repository for the current project
-use_github()
+# use_github()
+
+# pushing and pulling code is handled via the git pane
